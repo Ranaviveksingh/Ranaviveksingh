@@ -14,9 +14,7 @@ You can visit my website where I Provide [Lectures](www.meetind.me) / [Blogs](ww
 ---
 🧰 ToolBox
 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt = "React Logo" width ="50" height ="50"/>
-
-<img src ="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt = "React Logo" width ="50" height ="50"/>
 
 <!--
 **Ranaviveksingh/Ranaviveksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
