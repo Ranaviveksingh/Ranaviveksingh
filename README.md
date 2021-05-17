@@ -2,6 +2,10 @@
 
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/RANARVS?label=Follow%20me%20on%20twitter&style=social)
+
+---
+Self driven and motivated Electronics and Communication Engineering student adept at developing software products and
+implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to det
 <!--
 **Ranaviveksingh/Ranaviveksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
