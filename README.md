@@ -16,9 +16,30 @@ You can visit my website where I Provide [Lectures](www.meetind.me) / [Blogs](ww
 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt = "React Logo" width ="50" height ="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt = "React Logo" width ="50" height ="50"/>   <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt = "React Logo" width ="50" height ="50"/>    <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt = "React Logo" width ="50" height ="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/next-1.svg" alt = "React Logo" width ="50" height ="50"/>      <img src ="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>     <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "React Logo" width ="50" height ="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>   <img src ="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>     <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt = "React Logo" width ="50" height ="50"/><img src ="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/c.svg" alt = "React Logo" width ="50" height ="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/docker.svg" alt = "React Logo" width ="50" height ="50"/>
 
+---
+
+📕 Latest Blogs
+
+➡ [Coming soon !](www.meetind.me)
+
+⏩ [...more Blogs/Articles](www.meetind.me)
 
 
+---
+📺 Videos
 
+▶[...Coming Soon](www.meetind.me)
+
+
+---
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaviveksingh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranaviveksingh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
