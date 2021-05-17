@@ -14,7 +14,7 @@ You can visit my website where I Provide [Lectures](www.meetind.me) / [Blogs](ww
 ---
 🧰 ToolBox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/react-2" alt="CSS Logo" width="50" height="50"/>
 <!--
 **Ranaviveksingh/Ranaviveksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
