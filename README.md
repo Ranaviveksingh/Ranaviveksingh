@@ -3,7 +3,7 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/RANARVS?label=Follow%20me%20on%20twitter&style=social)
 
-...
+
 I am a Self driven and motivated Engineering student adept at developing software products and
 implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
