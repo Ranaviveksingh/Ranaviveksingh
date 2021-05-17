@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rana Vivek Singh
+### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rana Vivek Singh
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/RANARVS?label=Follow%20me%20on%20twitter&style=social)](https://twitter.com/RANARVS)
