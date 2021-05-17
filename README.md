@@ -41,6 +41,8 @@ You can visit my website where I Provide [Lectures](www.meetind.me) / [Blogs](ww
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaviveksingh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranaviveksingh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ranaviveksingh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=mytwitter)](https://github.com/Ranaviveksingh/mytwitter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=JamstackProject)](https://github.com/Ranaviveksingh/mytwitter)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=add-to-cart)](https://github.com/Ranaviveksingh/add-to-cart)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=webphp )](https://github.com/Ranaviveksingh/webphp)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=calculator )](https://github.com/Ranaviveksingh/calculator)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=ruby-toy-app )](https://github.com/Ranaviveksingh/cruby-toy-app)
