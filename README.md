@@ -44,8 +44,7 @@ You can visit my website where I Provide [Lectures](www.meetind.me) / [Blogs](ww
 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=mytwitter)](https://github.com/Ranaviveksingh/mytwitter)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=mytwitter)](https://github.com/Ranaviveksingh/mytwitter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=JamstackProject)](https://github.com/Ranaviveksingh/mytwitter)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=add-to-cart)](https://github.com/Ranaviveksingh/add-to-cart)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=webphp )](https://github.com/Ranaviveksingh/webphp)      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=calculator )](https://github.com/Ranaviveksingh/calculator)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ranaviveksingh&repo=ruby-toy-app )](https://github.com/Ranaviveksingh/cruby-toy-app)
 <!--
 **Ranaviveksingh/Ranaviveksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
