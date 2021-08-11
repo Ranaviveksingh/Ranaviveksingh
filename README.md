@@ -20,9 +20,7 @@ You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Wo
 ---
 
 📕 Latest Blogs
-
-➡ [Coming soon !](www.meetind.me)
-
+<h2>Viveksingh.tech</h2>
 ✍ [Technical Writeups](https://viveksingh.tech/)
 
 
