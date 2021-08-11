@@ -19,10 +19,10 @@ You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Wo
 
 ---
 
-📕 Latest Blogs
-<h2>Viveksingh.tech</h2>
-✍ [Technical Writeups](https://viveksingh.tech/)
+📕 Latest Blogs & Articles
 
+✍ [My Technical Writeups](https://viveksingh.tech/)
+1) [Cloud computing using Microsoft Azure ](https://viveksingh.tech/from-basic-knowledge-of-coding-to-deploying-your-own-website-on-microsoft-azure)
 
 ---
 📺 Videos
