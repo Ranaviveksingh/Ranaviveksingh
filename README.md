@@ -23,7 +23,7 @@ You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Wo
 
 ➡ [Coming soon !](www.meetind.me)
 
-⏩ [...more Blogs/Articles](https://viveksingh.tech/)
+✍ [Technical Writeups](https://viveksingh.tech/)
 
 
 ---
