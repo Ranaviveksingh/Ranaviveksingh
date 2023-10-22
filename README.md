@@ -5,12 +5,16 @@
 
 
 
-I am a Self driven and motivated Engineering student adept at developing software products and
+I am a Self driven Software Engineering adept at developing software products and
 implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
-Currently I am Working as a Full Stack Engineer at [Getboarded](https://videowiki.pt/)
+ Building Bigbuddy AI, sipping day and night coffee to make the product live.
 
-You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Workshops](www.meetind.me) etc, to help out the students like me in all possible ways I can.
+ Earlier I have worked with  [Videowiki](https://video.wiki/) , [Getboarded](https://www.getboarded.com/) , Procial, MTN etc.
+
+Worked and made **Best Microsoft teams app in 2022 (Worldwide)** 
+
+Currently building some awsome product with AI, got funded by Changeengine and other business Accelerators.
 
 ---
 <h2>😎 Skills</h2>
